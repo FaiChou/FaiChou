@@ -1,4 +1,4 @@
-# 👋 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 FaiChou
+## 👋 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 FaiChou
 
 - 📦 I am a foreign trade practitioner
 - 😄 Also a front-end developer
@@ -21,6 +21,6 @@
 - [![telegram](https://img.shields.io/badge/chat-Telegram-blueviolet?style=flat-square&logo=Telegram)](https://t.me/faichou)
 - [![blog](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=faichou.com&url=https%3A%2F%2Ffaichou.com)](https://faichou.com)
 
-## 𝗦𝘁𝗮𝘁𝘀
+## ⚡️ 𝗦𝘁𝗮𝘁𝘀
 
 ![FaiChou's github stats](https://github-readme-stats.vercel.app/api?username=FaiChou&show_icons=true&theme=dracula)
