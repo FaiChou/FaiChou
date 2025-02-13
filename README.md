@@ -8,7 +8,7 @@
 
 ## 🔭 My Projects
 
-- [IntraPaste](https://github.com/FaiChou/IntraPaste) - a simple content sharing service
+- [IntraPaste](https://github.com/FaiChou/IntraPaste) - A simple content sharing service
 - [react-native-slideable-calendar-strip](https://github.com/FaiChou/react-native-slideable-calendar-strip) - A react native calendar strip that support swipe
 - [uCopy](https://github.com/FaiChou/uCopy) - Yet Another Pasteboard Tool
 - [Alplayer](https://github.com/FaiChou/Aliplayer_About) - An Apple TV player that can play AliyunDrive movies
